@@ -1,0 +1,5 @@
+S => bAb
+S => AB | ab
+A => c
+B => d | A
+A => e
