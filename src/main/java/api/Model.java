@@ -1,6 +1,6 @@
 /**
  * Context-Free-Grammar to Push-down Automaton Converter
- * Copyright (C) 2012  Vy Thuy Nguyen
+ * Copyright (C) 2012  Vy  Nguyen
  *
  * This library is free software; you can redistribute it and/or
  * modify it under the terms of the GNU Library General Public
@@ -22,7 +22,7 @@ package api;
 
 /**
  *
- * @author vythuynguyen
+ * @author vnguyen
  */
 public enum Model
 {
